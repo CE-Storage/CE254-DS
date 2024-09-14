@@ -1,6 +1,6 @@
-# CE{code}-{abbreviation}: {course name} Course Repository
+# CE254-DS: Data Structures and Algorithms Course Repository
 
-Welcome to the repository for {course name} course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
+Welcome to the repository for Data Structures and Algorithms course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
 
 ## Table of Contents
 
